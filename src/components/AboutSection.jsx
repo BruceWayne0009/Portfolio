@@ -68,7 +68,7 @@ export const AboutSection = () => {
               
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  With over <span className="text-primary font-semibold">3 years of experience</span> in web development, 
+                 I am an undergraduate student pursuing a degree in <span className="text-primary font-semibold">Information Technology</span> With a passion for web development.
                   I specialize in creating responsive, accessible, and performant web applications using modern technologies 
                   like React, Node.js, and cutting-edge frameworks.
                 </p>
