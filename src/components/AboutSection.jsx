@@ -100,11 +100,12 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
               <a
-                href="#"
-                className="cosmic-button flex items-center justify-center gap-2 bg-card text-foreground hover:bg-primary/10 hover:text-primary"
+              href="/Ayush_Resume.pdf"
+              download
+              className="cosmic-button flex items-center justify-center gap-2 bg-card text-foreground hover:bg-primary/10 hover:text-primary"
               >
                 <Download className="h-4 w-4" />
-                Download CV
+                Download Resume
               </a>
             </div>
           </div>
