@@ -62,7 +62,7 @@ const projects = [
       "It is a responsive Netflix clone built with React, TailwindCSS, and Firebase, offering smooth user authentication and seamless streaming of movies and shows in a modern UI.",
     image: "/projects/Netflix_Clone.png",
     tags: ["React", "TailwindCSS", "Firebase"],
-    demoUrl: "https://super-cool-netflex-clone-app-2025.netlify.app/login",
+    demoUrl: "https://netflix-clone-dun-kappa.vercel.app/",
     githubUrl: "https://github.com/BruceWayne0009/NETFLIX_CLONE",
     featured: false,
   },
