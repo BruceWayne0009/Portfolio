@@ -63,7 +63,7 @@ const projects = [
     image: "/projects/Netflix_Clone.png",
     tags: ["React", "TailwindCSS", "Firebase"],
     demoUrl: "https://super-cool-netflex-clone-app-2025.netlify.app/login",
-    githubUrl: "#",
+    githubUrl: "https://github.com/BruceWayne0009/NETFLIX_CLONE",
     featured: false,
   },
   {
